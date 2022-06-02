@@ -43,7 +43,7 @@ extension UrlString on PersonUrl {
   String get urlString {
     switch (this) {
       case PersonUrl.persons1:
-        return 'http://192.168.42.171:5500/state_management/api/persons1.json';
+        return 'http://192.168.42.171:5500/state_management/api/persons1.json'; //ifconfig - 127.0.0.1 doesn't work
       case PersonUrl.persons2:
         return 'http://192.168.42.171:5500/state_management/api/persons2.json';
     }
