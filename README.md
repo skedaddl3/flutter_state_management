@@ -15,18 +15,11 @@ If there's conflict when running each step inside step3-8 just cut or move the d
 
 Cubits
 
-Mockable Implementation
-
-Bloc Preparation Testing
-
-step-3
-
-step-4
-
-step-5
-
-step-6
-
-step-7
-
-step-8
+- Mockable Implementation
+- Bloc Preparation Testing
+- step-3
+- step-4
+- step-5
+- step-6
+- step-7
+- step-8
