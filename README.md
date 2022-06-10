@@ -4,7 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project current directory has Cubits and BLOC test or Mockable Implementation
+
+To test each steps or chapter in this repository:
+change directory to each step/chapter name 'step-#'
+
+`cd step-#` where # is the number of the step, e.g. step-3
 
 A few resources to get you started if this is your first Flutter project:
 
