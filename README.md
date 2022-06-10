@@ -7,6 +7,8 @@ change directory to each step/chapter name 'step-#'
 
 `cd step3-8` change directory to step3-8. make sure that you're current directory is 'state_management$'
 
+If there's conflict when running each step inside step3-8 just cut or move the directory anywhere in your local machine and run.
+
 `cd step-#` where # is the number of the step, e.g. step-3
 
 ### Contents:
