@@ -13,8 +13,7 @@ If there's conflict when running each step inside step3-8 just cut or move the d
 
 ### Contents:
 
-Cubits
-
+- Cubits
 - Mockable Implementation
 - Bloc Preparation Testing
 - step-3
