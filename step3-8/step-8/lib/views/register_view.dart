@@ -11,11 +11,11 @@ class RegisterView extends HookWidget {
   @override
   Widget build(BuildContext context) {
     final emailController = useTextEditingController(
-      text: 'vandad.np@gmail.com'.ifDebugging,
+      text: ''.ifDebugging,
     );
 
     final passwordController = useTextEditingController(
-      text: 'foobarbaz'.ifDebugging,
+      text: ''.ifDebugging,
     );
 
     return Scaffold(

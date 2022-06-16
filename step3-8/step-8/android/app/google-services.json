@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630023211506",
+    "project_id": "bloc-photo-lib-aecf4",
+    "storage_bucket": "bloc-photo-lib-aecf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630023211506:android:db5c60c3daa8b09a35036b",
+        "android_client_info": {
+          "package_name": "se.pixolity.testingbloc_course8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630023211506-pcch6bj3ccjseulaqp47s9lr1lfp35fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCarcQbojuVRJC_lCz-I9w_hEZZrW1jZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630023211506-pcch6bj3ccjseulaqp47s9lr1lfp35fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
